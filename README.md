@@ -12,6 +12,8 @@
   <a href="https://github.com/yigaleana-maker/whynote-actualizaciones/releases/latest/download/whynote.apk"><b>⬇️ Descargar la última versión (APK)</b></a>
   &nbsp;·&nbsp;
   <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/yigaleana-maker/whynote-actualizaciones"><b>➕ Agregar a Obtainium</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://yigaleana-maker.github.io/whytype"><b>🌐 Página web</b></a>
 </p>
 
 ---
