@@ -14,6 +14,33 @@
 
 ---
 
+## La primera vez que la abres
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%"><img src="imagenes/pantallas/1-whynote.png" width="240" alt="WhyNote"><br><sub><b>WhyNote</b></sub></td>
+    <td align="center" width="33%"><img src="imagenes/pantallas/2-escribe.png" width="240" alt="Escribe como en una máquina"><br><sub><b>Escribe como en una máquina</b></sub></td>
+    <td align="center" width="33%"><img src="imagenes/pantallas/3-hoja.png" width="240" alt="Lee como una hoja"><br><sub><b>Lee como una hoja</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="50%"><img src="imagenes/pantallas/4-usuario.png" width="240" alt="Tu nombre y tu PIN"><br><sub><b>Tu nombre y tu PIN</b></sub></td>
+    <td align="center" width="50%"><img src="imagenes/pantallas/5-bienvenido.png" width="240" alt="¡A escribir!"><br><sub><b>¡A escribir!</b></sub></td>
+  </tr>
+</table>
+
+## Así se ve
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%"><img src="imagenes/pantallas/maquina.png" width="240" alt="Tu hoja en la máquina"><br><sub><b>Tu hoja en la máquina</b></sub></td>
+    <td align="center" width="50%"><img src="imagenes/pantallas/tu-maquina.png" width="240" alt="Personaliza tu máquina"><br><sub><b>Personaliza tu máquina</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="50%"><img src="imagenes/pantallas/recordatorios.png" width="240" alt="Recordatorios"><br><sub><b>Recordatorios</b></sub></td>
+    <td align="center" width="50%"><img src="imagenes/pantallas/opciones.png" width="240" alt="Escanear, compartir y más"><br><sub><b>Escanear, compartir y más</b></sub></td>
+  </tr>
+</table>
+
 ## Lo que tiene
 
 - ⌨️ **Escribe como en una máquina:** cada letra suena, la palanca golpea la hoja, el carro avanza y suena la campanita al final del renglón.
