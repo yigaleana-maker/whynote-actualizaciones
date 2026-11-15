@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="imagenes/icono.png" width="120" alt="WhyNote">
+  <img src="imagenes/icono.png" width="120" alt="WhyType">
 </p>
 
-<h1 align="center">WhyNote</h1>
+<h1 align="center">WhyType</h1>
+
+<p align="center"><sub>Antes WhyNote</sub></p>
 
 <p align="center"><b>Tus notas en una máquina de escribir de verdad.</b></p>
 
@@ -18,7 +20,7 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="33%"><img src="imagenes/pantallas/1-whynote.png" width="240" alt="WhyNote"><br><sub><b>WhyNote</b></sub></td>
+    <td align="center" width="33%"><img src="imagenes/pantallas/1-whynote.png" width="240" alt="WhyType"><br><sub><b>WhyType</b></sub></td>
     <td align="center" width="33%"><img src="imagenes/pantallas/2-escribe.png" width="240" alt="Escribe como en una máquina"><br><sub><b>Escribe como en una máquina</b></sub></td>
     <td align="center" width="33%"><img src="imagenes/pantallas/3-hoja.png" width="240" alt="Lee como una hoja"><br><sub><b>Lee como una hoja</b></sub></td>
   </tr>
@@ -56,14 +58,14 @@
 
 ## Cómo instalarla
 
-**Opción 1: con Obtainium (recomendado).** [Obtainium](https://github.com/ImranR98/Obtainium) instala WhyNote desde aquí y te avisa de cada versión nueva.
+**Opción 1: con Obtainium (recomendado).** [Obtainium](https://github.com/ImranR98/Obtainium) instala WhyType desde aquí y te avisa de cada versión nueva.
 1. Instala Obtainium.
 2. Toca **➕ Agregar a Obtainium** arriba, o en Obtainium toca **Agregar app** y pega:
    `https://github.com/yigaleana-maker/whynote-actualizaciones`
 
 **Opción 2: directo.** Toca **⬇️ Descargar la última versión**, abre el archivo y toca **Instalar**. Android te pedirá permitir instalar apps desde tu navegador la primera vez.
 
-Después de instalarla, WhyNote se actualiza sola: cuando hay una versión nueva aparece arriba de tus notas.
+Después de instalarla, WhyType se actualiza sola: cuando hay una versión nueva aparece arriba de tus notas.
 
 ## Todas las versiones
 
@@ -71,4 +73,4 @@ Cada versión, con lo que trae de nuevo, está en [Releases](https://github.com/
 
 ---
 
-<p align="center">¿Algo falló? WhyNote te ofrece enviar un reporte, o escribe a <b>yg4apps@gmail.com</b>.</p>
+<p align="center">¿Algo falló? WhyType te ofrece enviar un reporte, o escribe a <b>yg4apps@gmail.com</b>.</p>
